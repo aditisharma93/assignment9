@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class CountWords
+public class count
 {
 public static void main(String[] x)
 {
