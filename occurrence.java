@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Occurrence_of_string
+public class occurrence
 {
 public static void main(String[] x)
 {
