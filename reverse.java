@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ReverseString{
+public class reverse{
 public static void main(String[] x)
 {
 Scanner sc = new Scanner(System.in);
