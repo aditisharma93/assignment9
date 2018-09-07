@@ -1,4 +1,4 @@
-public class Substring
+public class substring
 {
 public static void main(String[] x)
 {
